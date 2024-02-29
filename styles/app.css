@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+button {
+  display: block;
+  margin: 5rem auto;
+}
+
+.user-table {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #eee;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+/*# sourceMappingURL=app.css.map */
