@@ -41,6 +41,10 @@ button:hover {
   background-color: #cb215c;
 }
 
+button.active {
+  background-color: #9e1b49;
+}
+
 .user-table {
   width: 90%;
   max-width: 600px;
@@ -91,6 +95,13 @@ button:hover {
 .filter p {
   font-size: 0.8rem;
   color: #444;
+}
+
+.pagination-btns {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  gap: 10px;
 }
 
 input[type=checkbox] {
